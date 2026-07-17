@@ -1,25 +1,45 @@
 # Hi 👋 I'm Umang
 
-🚀 React JS Developer | Frontend Enthusiast  
-📚 Currently learning and building modern web applications  
+
+React Developer | JavaScript | TypeScript | Tailwind CSS | Redux Toolkit | Building Modern Web Applications
 
 ---
 
-## 💻 About Me
+## 👨‍💻 About Me
 
-- 💼 Working in IT company  
-- ⚛️ Learning and developing projects using **React JS**  
-- 🌱 Improving skills in **JavaScript, React, HTML, CSS**  
-- 🎯 Goal: Become a professional **Frontend Developer**
+- 💻 React Developer 
+- ⚛️ Passionate about building responsive and modern web applications
+- 🎯 Focused on writing clean, reusable and scalable code
+- 🚀 Currently improving React ecosystem and frontend architecture
+- 🌱 Always learning new technologies and best practices
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
-- JavaScript  
-- React JS  
-- HTML5  
-- CSS3  
+### Frontend
+- React.js
+- JavaScript (ES6+)
+- TypeScript
+- HTML5
+- CSS3
+- Tailwind CSS
+- Bootstrap
+- Redux Toolkit
+- React Router
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Vite
+- npm
+  
+
+### Currently Learning
+- Next.js
+- Testing (Jest)
+- Performance Optimization
 
 ---
 
@@ -31,12 +51,28 @@
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-- Notes App  
-- Task Manager  
-- Portfolio Website  
+### 🛒 NexusStore
+Modern E-commerce Website built with React + Vite + Tailwind CSS
+
+⭐ Features
+- Product Listing
+- Search & Filter
+- Responsive Design
+- Shopping Cart
+- Modern UI
+
 
 ---
 
+## 📫 Connect With Me
+
+- GitHub: https://github.com/UmangBheda
+- LinkedIn: www.linkedin.com/in/umangbheda
+- Email: umangbheda176@gmail.com
+
+
 ⭐ Always learning, always building.
+
+
