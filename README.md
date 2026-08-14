@@ -1,78 +1,91 @@
-# Hi 👋 I'm Umang
+<div align="center">
 
+# 👋 Hi, I'm Umang Bheda
 
-React Developer | JavaScript | TypeScript | Tailwind CSS | Redux Toolkit | Building Modern Web Applications
+### 🤖 AI Engineer | Agentic AI Developer | ⚛️ React Developer | 🐍 Python Developer
 
----
+Building intelligent AI agents, multi-agent systems, modern web applications,
+and AI-powered products.
 
-## 👨‍💻 About Me
+<p>
+  <a href="https://github.com/UmangBheda">
+    <img src="https://komarev.com/ghpvc/?username=UmangBheda&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/UmangBheda?tab=followers">
+    <img src="https://img.shields.io/github/followers/UmangBheda?label=Followers&style=flat" alt="GitHub Followers"/>
+  </a>
+  <a href="https://github.com/UmangBheda?tab=repositories">
+    <img src="https://img.shields.io/github/stars/UmangBheda?label=Stars&style=flat" alt="GitHub Stars"/>
+  </a>
+</p>
 
-- 💻 React Developer 
-- ⚛️ Passionate about building responsive and modern web applications
-- 🎯 Focused on writing clean, reusable and scalable code
-- 🚀 Currently improving React ecosystem and frontend architecture
-- 🌱 Always learning new technologies and best practices
-
----
-
-## 🛠️ Tech Stack
-
-### Frontend
-- React.js
-- JavaScript (ES6+)
-- TypeScript
-- HTML5
-- CSS3
-- Tailwind CSS
-- Bootstrap
-- Redux Toolkit
-- React Router
-
-### Tools
-- Git
-- GitHub
-- VS Code
-- Vite
-- npm
-  
-
-### Currently Learning
-- Next.js
-- Testing (Jest)
-- Performance Optimization
+</div>
 
 ---
 
-## 📚 Currently Learning
+# 🚀 About Me
 
-- Advanced React
-- Frontend best practices
-- Building modern responsive web apps
+I'm a developer focused on **AI Engineering, Agentic AI, and modern web development**.
+
+I recently completed an **AI Agentic Development course** covering:
+
+- OpenAI Agents SDK
+- LangGraph
+- CrewAI
+- AutoGen
+- N8N
+- MCP
+- AI Agents
+- Multi-Agent Systems
+- Tool Calling
+- Workflow Automation
+
+I'm now applying these technologies by building practical AI-powered projects
+and production-oriented applications.
+
+### 💡 What I Love Building
+
+- 🤖 AI Agents
+- 🧠 Multi-Agent Systems
+- 🔎 AI Research Assistants
+- 📊 AI-powered Data & Market Research Tools
+- ⚡ Workflow Automation
+- 🔧 AI Tool-Using Agents
+- 🌐 AI + Full-Stack Applications
+- ⚛️ Modern React Applications
 
 ---
 
-## 🚀 Featured Projects
+# 🧠 AI & Agentic Development
 
-### 🛒 NexusStore
-Modern E-commerce Website built with React + Vite + Tailwind CSS
+<div align="center">
 
-⭐ Features
-- Product Listing
-- Search & Filter
-- Responsive Design
-- Shopping Cart
-- Modern UI
+<img src="https://img.shields.io/badge/OpenAI%20Agents%20SDK-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CrewAI-FF5A1F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AutoGen-0078D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
 
+</div>
 
----
+### Agentic AI Concepts
 
-## 📫 Connect With Me
-
-- GitHub: https://github.com/UmangBheda
-- LinkedIn: www.linkedin.com/in/umangbheda
-- Email: umangbheda176@gmail.com
-
-
-⭐ Always learning, always building.
-
-
+```text
+Agent Architecture
+Tool Calling
+Function Tools
+Custom Tools
+Structured Outputs
+Pydantic Validation
+Memory
+Multi-Agent Collaboration
+Agent Handoffs
+Planning
+Reasoning
+Workflow Automation
+Web Search
+Research Agents
+RAG
+MCP
+Human-in-the-Loop
