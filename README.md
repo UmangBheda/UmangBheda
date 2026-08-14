@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Umang Bheda
 
-### 🤖 AI Engineer | Agentic AI Developer | 🐍 Python Developer
+###   Agentic AI Developer | 🐍 Python Developer
 
 Building intelligent AI agents, multi-agent systems, modern web applications,
 and AI-powered products.
@@ -25,7 +25,7 @@ and AI-powered products.
 
 # 🚀 About Me
 
-I'm a developer focused on **AI Engineering, Agentic AI, and modern web development**.
+I'm a developer focused on **Agentic AI**.
 
 I recently completed an **AI Agentic Development course** covering:
 
@@ -51,8 +51,7 @@ and production-oriented applications.
 - 📊 AI-powered Data & Market Research Tools
 - ⚡ Workflow Automation
 - 🔧 AI Tool-Using Agents
-- 🌐 AI + Full-Stack Applications
-- ⚛️ Modern React Applications
+
 
 ---
 
