@@ -12,7 +12,7 @@ I enjoy solving backend engineering problems, designing efficient database queri
 - 🔐 Interested in API security, authentication, multi-tenant systems, and database optimization
 - 🧪 Focused on automated testing, clean architecture, and code quality
 - 🎯 Goal: Grow as a Backend Engineer and transition toward AI/LLM Engineering
-- 📫 Connect with me on [LinkedIn](YOUR_LINKEDIN_URL)
+- 📫 Connect with me on [LinkedIn](www.linkedin.com/in/umangbheda)
 
 ---
 
@@ -59,7 +59,7 @@ A full-stack web application for managing job applications, tracking interview p
 - Interactive dashboard with KPI metrics, overdue follow-up alerts, and pipeline charts
 - Automated unit and integration testing
 
-🔗 [View Repository](YOUR_FLASK_PROJECT_REPO_URL)
+🔗 [View Repository](https://github.com/UmangBheda/job-application-tracker-.git)
 
 ---
 
@@ -77,7 +77,7 @@ A RESTful API for managing tasks with secure authentication, user-level data iso
 - Database migrations with Alembic
 - Automated API tests using Pytest and HTTPX
 
-🔗 [View Repository](YOUR_FASTAPI_PROJECT_REPO_URL)
+🔗 [View Repository](https://github.com/UmangBheda/task-management-fastapi.git)
 
 ---
 
@@ -95,17 +95,10 @@ A financial tracking web application that helps users manage expenses, organize 
 - REST API endpoints with serializers and financial validation
 - Unit and integration tests for permissions and edge cases
 
-🔗 [View Repository](YOUR_DJANGO_PROJECT_REPO_URL)
+🔗 [View Repository](https://github.com/UmangBheda/expense-tracker-django.git)
 
 ---
 
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true)
-
----
 
 ## 📚 Currently Learning
 
@@ -119,9 +112,9 @@ A financial tracking web application that helps users manage expenses, organize 
 
 ## 🤝 Let's Connect
 
-- GitHub: [@YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
-- LinkedIn: [Connect with me](YOUR_LINKEDIN_URL)
-- Email: YOUR_PROFESSIONAL_EMAIL
+- GitHub: [@UmangBheda](https://github.com/UmangBheda)
+- LinkedIn: [Connect with me](www.linkedin.com/in/umangbheda)
+- Email: ukbheda@gmail.com
 
 I'm always interested in learning, collaborating, and building useful software. Feel free to explore my repositories and share feedback!
 
